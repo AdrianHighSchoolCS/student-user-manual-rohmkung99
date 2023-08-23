@@ -1,5 +1,5 @@
 ## About Me
-<p>Name:</p>
+<p>Name Thanawat Kongchaiyantr :</p>
 <p>Preferred Name:</p>
 <p>Grade Level:</p>
 <p>Email:</p>
